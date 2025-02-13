@@ -1,2 +1,10 @@
 ipykernel
 python-dotenv
+unstructured
+pandas
+numpy
+tiktoken
+pinecone-client
+openai
+langchain
+pypdf2
